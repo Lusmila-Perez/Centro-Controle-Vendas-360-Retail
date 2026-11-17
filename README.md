@@ -13,10 +13,10 @@
 > **Projeto prático da minha formação em Power BI (nível intermediário).**
 > Desenvolvido para aplicar, na prática, modelagem de dados, DAX, inteligência temporal e a Lei de Pareto (80/20) em um cenário de varejo. Faz parte do meu portfólio em construção.
 ---
-![Demonstração do Dashboard](Principal.png)
-![Demonstração do Dashboard](Filtro.png)
-![Demonstração do Dashboard](Trimestre.png)
-![Demonstração Interativa do Dashboard](Dashboard-demo.gif)
+![Demonstração do Dashboard](images/Principal.png)
+![Demonstração do Dashboard](images/Segmentador.png)
+![Demonstração do Dashboard](images/Trimestre.png)
+![Demonstração Interativa do Dashboard](images/Dashboard-demo.gif)
 ---
 
 ## 🎯 Cenário de Análise e Objetivos
